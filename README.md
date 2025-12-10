@@ -1,20 +1,20 @@
 # GitHub-Collaboration-Practice
 A repo for practicing Git and GitHub collaboration
 
-[ ] Adrian
+- [ ] Adrian
 
-[ ] Dari
+- [ ] Dari
 
-[ ] Kacie
+- [ ] Kacie
 
-[ ] Luana
+- [ ] Luana
 
-[ ] Paige
+- [ ] Paige
 
-[ ] Redu
+- [ ] Redu
 
-[ ] Shu
+- [ ] Shu
 
-[ ] Siyi
+- [ ] Siyi
 
-[ ] Violetta
+- [ ] Violetta
