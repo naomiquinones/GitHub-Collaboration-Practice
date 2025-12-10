@@ -12,7 +12,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [x] Paige
 
-- [ ] Redu
+- [X] Redu
 
 - [X] Shu
 
