@@ -5,7 +5,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [ ] Dari
 
-- [ ] Kacie
+- [x] Kacie
 
 - [ ] Luana
 
