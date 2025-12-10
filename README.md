@@ -11,7 +11,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [ ] Paige
 
-- [ ] Redu
+- [X] Redu
 
 - [ ] Shu
 
