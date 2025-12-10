@@ -4,7 +4,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [ ] Adrian
 
-- [ ] Dari
+- [x] Dari
 
 - [ ] Kacie
 
