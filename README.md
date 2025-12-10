@@ -16,7 +16,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [X] Shu
 
-- [ ] Siyi
+- [X] Siyi
 
 - [ ] Violetta
 
