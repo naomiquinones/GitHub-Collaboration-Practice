@@ -1,2 +1,2 @@
 # GitHub-Collaboration-Practice
-A repo for practicing git and GitHub collaboration
+A repo for practicing Git and GitHub collaboration
