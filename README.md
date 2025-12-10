@@ -7,7 +7,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [ ] Kacie
 
-- [ ] Luana
+- [x] Luana
 
 - [ ] Paige
 
