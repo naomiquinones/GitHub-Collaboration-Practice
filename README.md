@@ -1,4 +1,5 @@
 # GitHub-Collaboration-Practice
+
 A repo for practicing Git and GitHub collaboration
 
 - [ ] Adrian
@@ -9,7 +10,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [ ] Luana
 
-- [ ] Paige
+- [x] Paige
 
 - [ ] Redu
 
