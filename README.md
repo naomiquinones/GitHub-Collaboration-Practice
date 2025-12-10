@@ -14,7 +14,7 @@ A repo for practicing Git and GitHub collaboration
 
 - [ ] Redu
 
-- [ ] Shu
+- [X] Shu
 
 - [ ] Siyi
 
