@@ -2,6 +2,7 @@
 
 A repo for practicing Git and GitHub collaboration
 
+
 - [x] Adrian
 
 - [x] Dari
@@ -18,6 +19,6 @@ A repo for practicing Git and GitHub collaboration
 
 - [X] Siyi
 
-- [ ] Violetta
+- [x] Violetta
 
 This document was last updated 12-9-2025
